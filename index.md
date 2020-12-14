@@ -1,6 +1,5 @@
 This is the webpage for the Honours/MSc course Simulating Language, running in academic year 2020/2021. We will add links to materials (readings, videos, code) to this page; you will need to use Learn for electronic submission of your assessed work, and to keep an eye out for any course announcements.
 
-added layouts
 
 ## Course summary
 

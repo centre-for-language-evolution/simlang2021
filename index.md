@@ -7,7 +7,7 @@ To be written, but to cover: Language learning and language evolution. Models. A
 
 ## The teaching team
 
-[Simon Kirby](http://www.lel.ed.ac.uk/~simon/), [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/) and [Matt Spike](https://sites.google.com/site/matspike/) are the main lecturers and lab demonstrators - the best way to get in touch with us is in one of the drop-in lab sessions, see below, or by email/Teams (TBC). In the drop-in labs we'll be assisted by Claire Graf, [Annie Holz](https://www.ed.ac.uk/profile/annie-holtz) and Henry Conklin.
+[Simon Kirby](http://www.lel.ed.ac.uk/~simon/), [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/) and [Matt Spike](https://sites.google.com/site/matspike/) are the main lecturers and lab demonstrators - the best way to get in touch with us is in one of the drop-in lab sessions, see below, or by messaging on Teams. In the drop-in labs we'll be assisted by Claire Graf, [Annie Holz](https://www.ed.ac.uk/profile/annie-holtz) and Henry Conklin.
 
 ## Structure of the course
 

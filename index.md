@@ -3,7 +3,9 @@ This is the webpage for the Honours/MSc course Simulating Language, running in a
 
 ## Course summary
 
-To be written, but to cover: Language learning and language evolution. Models. A practical course. No programming knowledge assumed, but you will be doing stuff with code.
+In this course we are going to be using simulation models to study language. People use various types of models in linguistics for a number of purposes; in this course we are going to focus using models to study how processes of learning, communication and evolution shape linguistic systems, and we'll primarily be using agent-based Bayesian models (don't worry, we'll explain what that means!).
+
+This is a practical course: you'll be running and tinkering with code for computational models written in python. You don't need to be programmer to take the course - no programming knowledge is assumed, and we are doing everything in the simplest way we can think of, building from the ground up. But you will be doing stuff with code, so you have to be prepared to give it a go, dive in, and try stuff out. Don't worry, we'll help you figure it out. 
 
 ## The teaching team
 
@@ -17,7 +19,9 @@ Each week there is a set reading (which you do in your own time), a lecture (liv
 
 The week-by-week reading content is at the bottom of this page. The readings consist of our notes plus a mix of journal papers and book chapters. For some weeks also have associated quizzes or mini-tests so you can evaluate your own understanding.
 
-You should complete the reading materials and attend/watch the lecture before attempting the programming practical or attending the drop-in lab classes - the practicals involve playing with models that implement the ideas covered in the readings and lecture recordings, so will make a lot more sense when you have that context.
+For some of the ;ectures the reading is flagged up as being **pre-reading**, i.e. we will assume you have done this preparatory work prior to the lecture and will design the lecture accordingly (i.e. we might refer to stuff in the preparatory materials or ask you questions about it).
+
+You should always complete the reading materials and attend/watch the lecture before attempting the programming practical or attending the drop-in lab classes - the practicals involve playing with models that implement the ideas covered in the readings and lecture recordings, so will make a lot more sense when you have that context.
 
 Each week there is a designated academic lead, who sets the readings and appears in the lecture recording materials - if you have content questions on a given week, the academic lead for that week should be one of your points of contact, but we are all familiar with all of the content so anyone you see at drop-in labs should be able to help!
 

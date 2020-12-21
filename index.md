@@ -5,7 +5,7 @@ This is the webpage for the Honours/MSc course Simulating Language, running in a
 
 In this course we are going to be using simulation models to study language. People use various types of models in linguistics for a number of purposes; in this course we are going to focus using models to study how processes of learning, communication and evolution shape linguistic systems, and we'll primarily be using agent-based Bayesian models (don't worry, we'll explain what that means!).
 
-This is a practical course: you'll be running and tinkering with code for computational models written in python. You don't need to be programmer to take the course - no programming knowledge is assumed, and we are doing everything in the simplest way we can think of, building from the ground up. But you will be doing stuff with code, so you have to be prepared to give it a go, dive in, and try stuff out. Don't worry, we'll help you figure it out. 
+This is a practical course: you'll be running and tinkering with code for computational models written in python. You don't need to be programmer to take the course - no programming knowledge is assumed, and we are doing everything in the simplest way we can think of, building from the ground up. But you will be doing stuff with code, so you have to be prepared to give it a go, dive in, and try stuff out. Don't worry, we'll help you figure it out.
 
 ## The teaching team
 
@@ -52,74 +52,74 @@ Course content will appear here as we work through the course.
 
 But make an early start on the reading and preparatory materials for weeks 2 and 3.
 
-### Week 2 (18th January): Introduction
+### Week 2 (commencing 18th January): Introduction
 - Lead: Kenny Smith
 - Reading: [Introduction, and getting started with Bayes](simlang_reading_wk2.md)
 - Lecture slides
 - Lecture recording
 - Programming practical: Introduction to Python
 
-### Week 3 (25th January): Concept learning
+### Week 3 (commencing 25th January): Concept learning
 - Lead: Kenny Smith
 - Reading: More Bayes and a model of word learning
 - Lecture slides
 - Lecture recording
 - Programming practical: Word learning
 
-### Week 4 (1st February): Frequency learning and regularisation
+### Week 4 (commencing 1st February): Frequency learning and regularisation
 - Lead: Kenny Smith
 - Reading: Modelling frequency learning and regularisation
 - Lecture slides
 - Lecture recording
 - Programming practical: Frequency learning and regularisation
 
-### Week 5 (8th February): Iterated Learning
+### Week 5 (commencing 8th February): Iterated Learning
 - Lead: Simon Kirby
 - Reading: Bayesian iterated learning
 - Lecture slides
 - Lecture recording
 - Programming practical: Bayesian iterated learning
 
-### Free week (15th February): No classes
+### Free week (commencing 15th February): No classes
 
 Catch up, read ahead, or have a rest.
 
-### Week 6 (22nd February): Communication and the RSA model
+### Week 6 (commencing 22nd February): Communication and the RSA model
 - Lead: Kenny Smith
 - Reading: The Rational Speech Act model
 - Lecture slides
 - Lecture recording
 - Programming practical: The Rational Speech Act model
 
-### Week 7 (1st March): Compositionality
+### Week 7 (commencing 1st March): Compositionality
 - Lead: Simon Kirby
 - Reading: The evolution of compositionality
 - Lecture slides
 - Lecture recording
 - Programming practical: Compositionality
 
-### Week 8 (8th March): Hierarchical models and learning the prior
+### Week 8 (commencing 8th March): Hierarchical models and learning the prior
 - Lead: Kenny Smith
 - Reading: Hierarchical models, learning to learn, and the shape bias
 - Lecture slides
 - Lecture recording
 - Programming practical: Hierarchical learning
 
-### Week 9 (15th March): Genetic algorithms
+### Week 9 (commencing 15th March): Genetic algorithms
 - Lead: Simon Kirby
 - Reading: Introduction to genetic algorithms
 - Lecture slides
 - Lecture recording
 - Programming practical: Genetic algorithms
 
-### Week 10 (22nd March): Evolving the prior
+### Week 10 (commencing 22nd March): Evolving the prior
 - Lead: Simon Kirby
 - Reading: Gene-culture co-evolution
 - Lecture slides
 - Lecture recording
 - Programming practical: Co-evolutionary modelling
 
-### Week 11 (29th March): Overview
+### Week 11 (commencing 29th March): Overview
 - Lead: Simon Kirby
 - Reading: Overview of this view of language
 - Lecture slides

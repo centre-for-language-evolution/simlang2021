@@ -1,13 +1,15 @@
 ---
-title: Week 2 reading
+title: Week 2 pre-lecture reading
 description: Introduction, and getting started with Bayes
 ---
 
+This is a pre-lecture reading - do it before the week 2 lecture, I'll assume you have.
+
 # The plan for week 2
 
-This is the opening week of the course - welcome aboard! In this course we are going to be using simulation models to study language. While people use models in linguistics for a number of purposes, we are going to focus on how processes of learning and evolution shape linguistic systems. The first part of this reading we'll introduce some basic concepts in modelling. What is a model? What is a simulation model? How can you build a model of a linguistic system? Then in the second part we'll focus on the kinds of models we'll be using in this course: we'll explain why this kind of modelling is particularly useful when you are interested in learning and evolution of language, and we'll introduce the basic modelling framework we’ll be using for the rest of the course (Bayesian learning). But the starting point is to understand models: what they are, and what you can use them for.
+This is the opening week of the course - welcome aboard! In this course we are going to be using simulation models to study language. While people use models in linguistics for a number of purposes, we are going to focus on how processes of learning and evolution shape linguistic systems. In the first part of this reading we'll introduce some basic concepts in modelling. What is a model? What is a simulation model? How can you build a model of a linguistic system? Then in the lecture we'll focus on the kinds of models we'll be using in this course: we'll explain why this kind of modelling is particularly useful when you are interested in learning and evolution of language, and we'll introduce the basic modelling framework we’ll be using for the rest of the course (Bayesian learning). But the starting point is to understand models: what they are, and what you can use them for.
 
-# Part 1: what is a model, and why build one?
+# What is a model, and why build one?
 
 ## What is a model?
 

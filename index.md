@@ -27,9 +27,9 @@ Each week there is a designated academic lead, who sets the readings and appears
 
 ### Lectures
 
-- Lectures will take place live on Teams **Tuesdays 2pm-3pm** starting in week 2 (i.e. the first lecture is Tuesday 19th January).
+- Lectures arelive on Teams **Tuesdays 2pm-3pm**
 
-Lectures will be recorded and posted here, so if you can't attend (e.g. due to timezone) then you will be able to see what was said.
+Lectures start in week 2, i.e. the first lecture is Tuesday 19th January. Lectures will be recorded and posted here, so if you can't attend (e.g. due to timezone) then you will be able to see what was said.
 
 ### Practicals and drop-in labs
 

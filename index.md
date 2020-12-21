@@ -54,7 +54,7 @@ But make an early start on the reading and preparatory materials for weeks 2 and
 
 ### Week 2 (commencing 18th January): Introduction
 - Lead: Kenny Smith
-- Pre-lecture reading: [Introduction, and getting started with Bayes](simlang_reading_wk2.md)
+- Pre-lecture reading: [Introduction to modelling](simlang_reading_wk2.md)
 - Lecture slides
 - Lecture recording
 - Programming practical: Introduction to Python

@@ -1,6 +1,6 @@
 ---
 title: Week 2 pre-lecture reading
-description: Introduction, and getting started with Bayes
+description: Introduction to modelling
 ---
 
 This is a pre-lecture reading - do it before the week 2 lecture, I'll assume you have.

@@ -27,7 +27,7 @@ Each week there is a designated academic lead, who sets the readings and appears
 
 ### Lectures
 
-- Lectures arelive on Teams **Tuesdays 2pm-3pm**
+- Lectures are live on Teams **Tuesdays 2pm-3pm**
 
 Lectures start in week 2, i.e. the first lecture is Tuesday 19th January. Lectures will be recorded and posted here, so if you can't attend (e.g. due to timezone) then you will be able to see what was said.
 
@@ -41,6 +41,10 @@ The drop-in lab times are as follows in weeks 2-11:
 - Fridays, 9am-11am
 
 The drop-in labs happen on Teams, you can drop in at any time during these hours and ask questions, get help with the programming practicals, or just hang out. You can come as much or as little as you want: we'll be sad if we never see you, but you'll probably be sad if you see us too much.
+
+### Chat on Teams
+
+In addition to asking questions in lectures and drop-in labs, we will set up channels on Teams for you to ask questions. If you have a question that you can't ask live, Teams (rather than email) is our preferred way for you to get in touch.
 
 ## Assessment
 

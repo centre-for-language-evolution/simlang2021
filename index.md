@@ -19,7 +19,7 @@ Each week there is a set reading (which you do in your own time), a lecture (liv
 
 The week-by-week reading content is at the bottom of this page. The readings consist of our notes plus a mix of journal papers and book chapters. For some weeks also have associated quizzes or mini-tests so you can evaluate your own understanding.
 
-For some of the ;ectures the reading is flagged up as being **pre-reading**, i.e. we will assume you have done this preparatory work prior to the lecture and will design the lecture accordingly (i.e. we might refer to stuff in the preparatory materials or ask you questions about it).
+For some of the lectures the reading is flagged up as being **pre-reading**, i.e. we will assume you have done this preparatory work prior to the lecture and will design the lecture accordingly (i.e. we might refer to stuff in the preparatory materials or ask you questions about it).
 
 You should always complete the reading materials and attend/watch the lecture before attempting the programming practical or attending the drop-in lab classes - the practicals involve playing with models that implement the ideas covered in the readings and lecture recordings, so will make a lot more sense when you have that context.
 
@@ -27,7 +27,9 @@ Each week there is a designated academic lead, who sets the readings and appears
 
 ### Lectures
 
-Lectures will take place live on Teams, **Tuesdays 2pm-3pm** starting in week 2 (i.e. the first lecture is Tuesday 19th January). Lectures will be recorded and posted here, so if you can't attend (e.g. due to timezone) then you will be able to see what was said.
+- Lectures will take place live on Teams **Tuesdays 2pm-3pm** starting in week 2 (i.e. the first lecture is Tuesday 19th January).
+
+Lectures will be recorded and posted here, so if you can't attend (e.g. due to timezone) then you will be able to see what was said.
 
 ### Practicals and drop-in labs
 

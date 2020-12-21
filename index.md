@@ -11,24 +11,30 @@ To be written, but to cover: Language learning and language evolution. Models. A
 
 ## Structure of the course
 
-Each week there are two main kinds of content: readings and lecture recordings, and then a programming practical.
+Each week there is a set reading (which you do in your own time), a lecture (live on Teams), and then a programming practical (which you attempt in your own time, and get help with in the drop-in labs).
 
-You should be able to work through the readings and lecture recordings in your own time - the readings consist of our notes plus a mix of journal papers and book chapters, and the recordings summarise the main points we want you to take from those materials. For some weeks also have associated quizzes or mini-tests so you can evaluate your own understanding.
+### Readings
 
-You can also attempt the programming practical on your own, but we will be providing drop-in labs at set times each week (platform TBC) where you can come and get our help to figure out problems. You are also welcome to just turn up in drop-in labs to work through things on your own with us in the background - some people find that having set times helps them focus.
+The week-by-week reading content is at the bottom of this page. The readings consist of our notes plus a mix of journal papers and book chapters. For some weeks also have associated quizzes or mini-tests so you can evaluate your own understanding.
 
-You should complete the reading materials and lecture videos for a given week before attempting the programming practical or attending the drop-in lab classes - the practicals involve playing with models that implement the ideas covered in the readings and lecture recordings, so will make a lot more sense when you have that context.
+You should complete the reading materials and attend/watch the lecture before attempting the programming practical or attending the drop-in lab classes - the practicals involve playing with models that implement the ideas covered in the readings and lecture recordings, so will make a lot more sense when you have that context.
 
 Each week there is a designated academic lead, who sets the readings and appears in the lecture recording materials - if you have content questions on a given week, the academic lead for that week should be one of your points of contact, but we are all familiar with all of the content so anyone you see at drop-in labs should be able to help!
 
-## Timetable for drop-in labs
+### Lectures
 
-We'll be available online (platform TBC) to help you at the following times in weeks 2-11:
+Lectures will take place live on Teams, **Tuesdays 2pm-3pm** starting in week 2 (i.e. the first lecture is Tuesday 19th January). Lectures will be recorded and posted here, so if you can't attend (e.g. due to timezone) then you will be able to see what was said.
+
+### Practicals and drop-in labs
+
+You can attempt the programming practical on your own, but we will be providing drop-in labs at set times each week on Teams where you can come and get our help to figure out problems. You should come to the drop-in labs if you need help with a specific problem, but you are also welcome to just turn up in drop-in labs to hang out and work through things on your own with us in the background - some people find that having set times helps them focus.
+
+The drop-in lab times are as follows in weeks 2-11:
 - Thursdays, 9am-11am
 - Thursdays, 1pm-3pm
 - Fridays, 9am-11am
 
-You can drop in at any time during these hours and ask questions, get help with the programming practicals, or just hang out with other people who are working on the course. You can come as much or as little as you want: we'll be sad if we never see you, but you'll probably be sad if you see us too much.
+The drop-in labs happen on Teams, you can drop in at any time during these hours and ask questions, get help with the programming practicals, or just hang out. You can come as much or as little as you want: we'll be sad if we never see you, but you'll probably be sad if you see us too much.
 
 ## Assessment
 
@@ -44,22 +50,30 @@ But make an early start on the reading and preparatory materials for weeks 2 and
 
 ### Week 2 (18th January): Introduction
 - Lead: Kenny Smith
-- Readings/lecture: [Introduction, and getting started with Bayes](simlang_reading_wk2.md)
+- Reading: [Introduction, and getting started with Bayes](simlang_reading_wk2.md)
+- Lecture slides
+- Lecture recording
 - Programming practical: Introduction to Python
 
 ### Week 3 (25th January): Concept learning
 - Lead: Kenny Smith
-- Readings/lecture: More Bayes and a model of word learning
+- Reading: More Bayes and a model of word learning
+- Lecture slides
+- Lecture recording
 - Programming practical: Word learning
 
 ### Week 4 (1st February): Frequency learning and regularisation
 - Lead: Kenny Smith
-- Readings/lecture: Modelling frequency learning and regularisation
+- Reading: Modelling frequency learning and regularisation
+- Lecture slides
+- Lecture recording
 - Programming practical: Frequency learning and regularisation
 
 ### Week 5 (8th February): Iterated Learning
 - Lead: Simon Kirby
-- Readings/lecture: Bayesian iterated learning
+- Reading: Bayesian iterated learning
+- Lecture slides
+- Lecture recording
 - Programming practical: Bayesian iterated learning
 
 ### Free week (15th February): No classes
@@ -68,33 +82,45 @@ Catch up, read ahead, or have a rest.
 
 ### Week 6 (22nd February): Communication and the RSA model
 - Lead: Kenny Smith
-- Readings/lecture: The Rational Speech Act model
+- Reading: The Rational Speech Act model
+- Lecture slides
+- Lecture recording
 - Programming practical: The Rational Speech Act model
 
 ### Week 7 (1st March): Compositionality
 - Lead: Simon Kirby
-- Readings/lecture: The evolution of compositionality
+- Reading: The evolution of compositionality
+- Lecture slides
+- Lecture recording
 - Programming practical: Compositionality
 
 ### Week 8 (8th March): Hierarchical models and learning the prior
 - Lead: Kenny Smith
-- Readings/lecture: Hierarchical models, learning to learn, and the shape bias
+- Reading: Hierarchical models, learning to learn, and the shape bias
+- Lecture slides
+- Lecture recording
 - Programming practical: Hierarchical learning
 
 ### Week 9 (15th March): Genetic algorithms
 - Lead: Simon Kirby
-- Readings/lecture: Introduction to genetic algorithms
+- Reading: Introduction to genetic algorithms
+- Lecture slides
+- Lecture recording
 - Programming practical: Genetic algorithms
 
 ### Week 10 (22nd March): Evolving the prior
 - Lead: Simon Kirby
-- Readings/lecture: Gene-culture co-evolution
+- Reading: Gene-culture co-evolution
+- Lecture slides
+- Lecture recording
 - Programming practical: Co-evolutionary modelling
 
 ### Week 11 (29th March): Overview
 - Lead: Simon Kirby
-- Readings/lecture: Overview of this view of language
-- Programming practical: None?
+- Reading: Overview of this view of language
+- Lecture slides
+- Lecture recording
+- Programming practical: Probably none!
 
 
 ## Re-use

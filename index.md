@@ -59,7 +59,7 @@ Course content will appear here as we work through the course.
 But make an early start on the reading and preparatory materials for weeks 2 and 3.
 
 ### Week 2 (commencing 18th January): Introduction
-- Lead: Kenny Smith
+Lead: Kenny Smith
 - Pre-lecture reading: [Introduction to modelling](simlang_reading_wk2.md)
 - Lecture slides
 - Lecture recording

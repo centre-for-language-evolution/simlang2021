@@ -97,4 +97,4 @@ You could also/instead check out [Servedio et al. (2014)](https://journals.plos.
 
 # Re-use
 
-This page was written by Kenny Smith; the Liljencrants and Lindblom example is from https://github.com/smkirby/SimLang/blob/master/simlang_1_lecture.ipynb, written by Simon Kirby.. All aspects of this work are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This page was written by Kenny Smith; the Liljencrants and Lindblom example is from https://github.com/smkirby/SimLang/blob/master/simlang_1_lecture.ipynb, written by Simon Kirby. All aspects of this work are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).

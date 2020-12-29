@@ -1,6 +1,6 @@
 ---
 title: Week 3 pre-lecture reading
-description: Introduction to modelling
+description: More on Bayes' Rule
 ---
 
 

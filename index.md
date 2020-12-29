@@ -67,7 +67,7 @@ But make an early start on the reading and preparatory materials for weeks 2 and
 
 ### Week 3 (commencing 25th January): Concept learning
 - Lead: Kenny Smith
-- Reading: More Bayes and a model of word learning
+- Pre-lecture reading: [More on Bayes' Rule](simlang_reading_wk3.md)
 - Lecture slides
 - Lecture recording
 - Programming practical: Word learning

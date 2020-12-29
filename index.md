@@ -56,7 +56,7 @@ Course content will appear here as we work through the course.
 
 ### Week 1 (commencing 11th January): No class
 
-But make an early start on the reading and preparatory materials for weeks 2 and 3.
+But make an early start on the reading and preparatory materials for weeks 2 and 3 - note that for week 3 in particular there's a fairly chunky bit of preparatory work.
 
 ### Week 2 (commencing 18th January): Introduction
 Lead: Kenny Smith

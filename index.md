@@ -66,21 +66,21 @@ Lead: Kenny Smith
 - Programming practical: Introduction to Python
 
 ### Week 3 (commencing 25th January): Concept learning
-- Lead: Kenny Smith
+Lead: Kenny Smith
 - Pre-lecture reading: [More on Bayes' Rule](simlang_reading_wk3.md)
 - Lecture slides
 - Lecture recording
 - Programming practical: Word learning
 
 ### Week 4 (commencing 1st February): Frequency learning and regularisation
-- Lead: Kenny Smith
+Lead: Kenny Smith
 - Reading: Modelling frequency learning and regularisation
 - Lecture slides
 - Lecture recording
 - Programming practical: Frequency learning and regularisation
 
 ### Week 5 (commencing 8th February): Iterated Learning
-- Lead: Simon Kirby
+Lead: Simon Kirby
 - Reading: Bayesian iterated learning
 - Lecture slides
 - Lecture recording
@@ -91,42 +91,42 @@ Lead: Kenny Smith
 Catch up, read ahead, or have a rest.
 
 ### Week 6 (commencing 22nd February): Communication and the RSA model
-- Lead: Kenny Smith
+Lead: Kenny Smith
 - Reading: The Rational Speech Act model
 - Lecture slides
 - Lecture recording
 - Programming practical: The Rational Speech Act model
 
 ### Week 7 (commencing 1st March): Compositionality
-- Lead: Simon Kirby
+Lead: Simon Kirby
 - Reading: The evolution of compositionality
 - Lecture slides
 - Lecture recording
 - Programming practical: Compositionality
 
 ### Week 8 (commencing 8th March): Hierarchical models and learning the prior
-- Lead: Kenny Smith
+Lead: Kenny Smith
 - Reading: Hierarchical models, learning to learn, and the shape bias
 - Lecture slides
 - Lecture recording
 - Programming practical: Hierarchical learning
 
 ### Week 9 (commencing 15th March): Genetic algorithms
-- Lead: Simon Kirby
+Lead: Simon Kirby
 - Reading: Introduction to genetic algorithms
 - Lecture slides
 - Lecture recording
 - Programming practical: Genetic algorithms
 
 ### Week 10 (commencing 22nd March): Evolving the prior
-- Lead: Simon Kirby
+Lead: Simon Kirby
 - Reading: Gene-culture co-evolution
 - Lecture slides
 - Lecture recording
 - Programming practical: Co-evolutionary modelling
 
 ### Week 11 (commencing 29th March): Overview
-- Lead: Simon Kirby
+Lead: Simon Kirby
 - Reading: Overview of this view of language
 - Lecture slides
 - Lecture recording

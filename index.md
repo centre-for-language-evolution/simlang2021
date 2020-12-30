@@ -52,8 +52,6 @@ TBC.
 
 ## Course Materials
 
-Course content will appear here as we work through the course.
-
 ### Week 1 (commencing 11th January): No class
 
 But make an early start on the reading and preparatory materials for weeks 2 and 3 - note that for week 3 in particular there's a fairly chunky bit of preparatory work.
@@ -74,7 +72,7 @@ Lead: Kenny Smith
 
 ### Week 4 (commencing 1st February): Frequency learning and regularisation
 Lead: Kenny Smith
-- Reading: Modelling frequency learning and regularisation
+- Reading: No new reading – catch up on the week 3 readings on Bayes, or read [Xu & Tenenbaum (2007)](https://www.academia.edu/download/34195059/XuTenenbaum-PsychRev.pdf), covered in the week 3 lecture, for yourself.
 - Lecture slides
 - Lecture recording
 - Programming practical: Frequency learning and regularisation

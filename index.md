@@ -72,7 +72,7 @@ Lead: Kenny Smith
 
 ### Week 4 (commencing 1st February): Frequency learning and regularisation
 Lead: Kenny Smith
-- Reading: No new reading – catch up on the week 3 readings on Bayes, or read [Xu & Tenenbaum (2007)](https://www.academia.edu/download/34195059/XuTenenbaum-PsychRev.pdf), covered in the week 3 lecture, for yourself.
+- Reading: No new reading – catch up on the week 3 readings on Bayes, or read [Xu & Tenenbaum (2007)](https://discovered.ed.ac.uk/permalink/f/1s15qcp/TN_cdi_proquest_miscellaneous_70499121), covered in the week 3 lecture, for yourself.
 - Lecture slides
 - Lecture recording
 - Programming practical: Frequency learning and regularisation

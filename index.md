@@ -63,7 +63,7 @@ Lead: Kenny Smith
 - Pre-lecture reading: [Introduction to modelling](simlang_reading_wk2.md)
 - Lecture slides
 - Lecture recording
-- Programming practical: Introduction to Python
+- Programming practical: [Introduction to Python](simlang_lab_wk2.md)
 
 ### Week 3 (commencing 25th January): Concept learning
 Lead: Kenny Smith

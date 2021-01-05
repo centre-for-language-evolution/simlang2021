@@ -118,7 +118,7 @@ Lead: Simon Kirby
 Lead: Simon Kirby
 - Reading: Overview of this view of language
 - Lecture slides
-- Programming practical: Probably none!
+- Programming practical: None for this week, but labs open for catch up!
 
 
 ## Re-use

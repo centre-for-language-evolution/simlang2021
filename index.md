@@ -9,7 +9,7 @@ This is a practical course: you'll be running and tinkering with code for comput
 
 ## The teaching team
 
-[Simon Kirby](http://www.lel.ed.ac.uk/~simon/), [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/) and [Matt Spike](https://sites.google.com/site/matspike/) are the main lecturers and lab demonstrators - the best way to get in touch with us is in one of the drop-in lab sessions, see below, or by messaging on Teams. In the drop-in labs we'll be assisted by Claire Graf, [Annie Holz](https://www.ed.ac.uk/profile/annie-holtz) and Henry Conklin.
+[Simon Kirby](http://www.lel.ed.ac.uk/~simon/), [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/) and [Matt Spike](https://sites.google.com/site/matspike/) are the main lecturers and lab demonstrators - the best way to get in touch with us is in one of the drop-in lab sessions, see below, or by messaging on Teams. In the drop-in labs we'll be assisted by Claire Graf, [Annie Holtz](https://www.ed.ac.uk/profile/annie-holtz) and Henry Conklin.
 
 ## Structure of the course
 

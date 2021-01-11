@@ -40,7 +40,7 @@ The drop-in lab times are as follows in weeks 2-11:
 - Thursdays, 1pm-3pm
 - Fridays, 9am-11am
 
-The drop-in labs happen on Teams, you can drop in at any time during these hours and ask questions, get help with the programming practicals, or just hang out. You can come as much or as little as you want: we'll be sad if we never see you, but you'll probably be sad if you see us too much.
+The drop-in labs happen on Teams. *You will be assigned a lab time and a tutor during week 1*, you can drop in at any time during your session and ask questions, get help with the programming practicals, or just hang out. You can come as much or as little as you want: we'll be sad if we never see you, but you'll probably be sad if you see us too much.
 
 ### Chat on Teams
 

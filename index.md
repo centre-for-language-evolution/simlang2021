@@ -103,19 +103,19 @@ Lead: Kenny Smith
 - Lecture slides
 - Programming practical: Hierarchical learning
 
-### Week 9 (commencing 15th March): Genetic algorithms
+### Week 9 (commencing 15th March): Biological evolution
 Lead: Simon Kirby
 - Reading: Introduction to genetic algorithms
 - Lecture slides
 - Programming practical: Genetic algorithms
 
-### Week 10 (commencing 22nd March): Evolving the prior
+### Week 10 (commencing 22nd March): Gene-culture co-evolution
 Lead: Simon Kirby
 - Reading: Gene-culture co-evolution
 - Lecture slides
 - Programming practical: Co-evolutionary modelling
 
-### Week 11 (commencing 29th March): Overview
+### Week 11 (commencing 29th March): This view of language
 Lead: Simon Kirby
 - Reading: Overview of this view of language
 - Lecture slides

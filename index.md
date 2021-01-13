@@ -23,7 +23,7 @@ For some of the lectures the reading is flagged up as being **pre-reading**, i.e
 
 You should always complete the reading materials and attend/watch the lecture before attempting the programming practical or attending the drop-in lab classes - the practicals involve playing with models that implement the ideas covered in the readings and lecture recordings, so will make a lot more sense when you have that context.
 
-Each week there is a designated academic lead, who sets the readings and appears in the lecture recording materials - if you have content questions on a given week, the academic lead for that week should be one of your points of contact, but we are all familiar with all of the content so anyone you see at drop-in labs should be able to help!
+Each week there is a designated academic lead, who sets the readings and presents the lecture - if you have content questions on a given week, the academic lead for that week should be one of your points of contact, but we are all familiar with all of the content so anyone you see at drop-in labs should be able to help!
 
 ### Lectures
 
@@ -35,10 +35,11 @@ Lectures start in week 2, i.e. the first lecture is Tuesday 19th January. Lectur
 
 You can attempt the programming practical on your own, but we will be providing drop-in labs at set times each week on Teams where you can come and get our help to figure out problems. You should come to the drop-in labs if you need help with a specific problem, but you are also welcome to just turn up in drop-in labs to hang out and work through things on your own with us in the background - some people find that having set times helps them focus.
 
-The drop-in lab times are as follows in weeks 2-11:
+You will be assigned a lab group that will take place at one of the following times in weeks 2-11:
 - Thursdays, 9am-11am
 - Thursdays, 1pm-3pm
 - Fridays, 9am-11am
+- Fridays, 2pm-4pm
 
 The drop-in labs happen on Teams. *You will be assigned a lab time and a tutor during week 1*, you can drop in at any time during your session and ask questions, get help with the programming practicals, or just hang out. You can come as much or as little as you want: we'll be sad if we never see you, but you'll probably be sad if you see us too much.
 

@@ -49,7 +49,10 @@ In addition to asking questions in lectures and drop-in labs, we will set up cha
 
 ## Assessment
 
-TBC.
+Details to be confirmed, but there wil be two assignments, with the following deadlines:
+
+- 4th March at noon
+- 8th April at noon
 
 ## Course Materials
 

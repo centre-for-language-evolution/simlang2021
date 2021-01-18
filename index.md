@@ -49,7 +49,7 @@ In addition to asking questions in lectures and drop-in labs, we will set up cha
 
 ## Assessment
 
-Details to be confirmed, but there wil be two assignments, with the following deadlines:
+Details to be confirmed, but there will be two assignments, with the following deadlines:
 
 - 4th March at noon
 - 8th April at noon
@@ -63,7 +63,7 @@ But make an early start on the reading and preparatory materials for weeks 2 and
 ### Week 2 (commencing 18th January): Introduction
 Lead: Kenny Smith
 - Pre-lecture reading: [Introduction to modelling](simlang_reading_wk2.md)
-- Lecture slides
+- [Lecture slides](lecture_slides/simlang2021_lecture1.pdf)
 - Programming practical: [Introduction to Python](simlang_lab_wk2.md)
 
 ### Week 3 (commencing 25th January): Concept learning

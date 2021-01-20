@@ -12,7 +12,7 @@ In this first lab we'll show you how to access the noteable server to work on co
 All the coding for this course will be done using interactive Python notebooks, which allow us to combine text and code in a single document. The interactive Python notebooks work using a "Jupyter Server". The University of Edinburgh provides one that you can log into, and we will be accessing it **via Learn**.
 To do that:
 
-1. Go to the Simulating Language page on Learning
+1. Go to the Simulating Language page on [Learn](http://www.learn.ed.ac.uk/)
 2. Click on the 'Course Materials' tab on the left
 3. Click on the **Notable** link at the bottom (If you're logged into Learn already, you can try [this link](https://www.learn.ed.ac.uk/webapps/osc-BasicLTI-BB5d1b15b77a8ac/tool.jsp?course_id=_79953_1&content_id=_5614494_1) to go there directly).
 4. Once you've logged on to the noteable service you may have to either "reconnect" or "start" your server (if there is a list of options available, stay with "Standard Notebook (Python 3)").

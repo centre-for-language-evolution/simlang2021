@@ -17,7 +17,7 @@ To do that:
 3. Click on the **Notable** link at the bottom (If you're logged into Learn already, you can try [this link](https://www.learn.ed.ac.uk/webapps/osc-BasicLTI-BB5d1b15b77a8ac/tool.jsp?course_id=_79953_1&content_id=_5614494_1) to go there directly).
 4. Once you've logged on to the noteable service you may have to either "reconnect" or "start" your server (if there is a list of options available, stay with "Standard Notebook (Python 3)").
 
-![noteable screenshot](images/lab1_noteable_screenshot.png)
+    ![noteable screenshot](images/lab1_noteable_screenshot.png)
 
 5. Once you've started and connected/reconnected to the server you'll be given an interface that will let you upload notebooks and navigate the files you'll be creating.
 6. There are four tabs at the top of the screen. Click on the one called 'Assignments'.

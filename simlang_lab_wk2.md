@@ -9,36 +9,22 @@ In this first lab we'll show you how to access the noteable server to work on co
 
 # Logging on to noteable
 
-All the coding for this course will be done using interactive Python notebooks, which allow us to combine text and code in a single document. The interactive Python notebooks work using a "Jupyter Server". The University of Edinburgh provides one that you can log into here: [https://noteable.edina.ac.uk/login](https://noteable.edina.ac.uk/login). Once you've logged on to the noteable service you may have to either "reconnect" or "start" your server (if there is a list of options available, stay with "Standard Notebook (Python 3)").
+All the coding for this course will be done using interactive Python notebooks, which allow us to combine text and code in a single document. The interactive Python notebooks work using a "Jupyter Server". The University of Edinburgh provides one that you can log into, and we will be accessing it **via Learn**.
+To do that:
+
+1. Go to the Simulating Language page on Learning
+2. Click on the 'Course Materials' tab on the left
+3. Click on the **Notable** link at the bottom [(If you're logged into Learn already, you can try this link to go there directly)](https://www.learn.ed.ac.uk/webapps/osc-BasicLTI-BB5d1b15b77a8ac/tool.jsp?course_id=_79953_1&content_id=_5614494_1). Once you've logged on to the noteable service you may have to either "reconnect" or "start" your server (if there is a list of options available, stay with "Standard Notebook (Python 3)").
 
 ![noteable screenshot](images/lab1_noteable_screenshot.png)
 
-Once you've started and connected/reconnected to the server you'll be given an interface that will let you upload notebooks and navigate the files you'll be creating.
+4. Once you've started and connected/reconnected to the server you'll be given an interface that will let you upload notebooks and navigate the files you'll be creating.
+5. There are four tabs at the top of the screen. Click on the one called 'Assignments'.
+6. In the top box, called 'Released assignments', you should see *SimLang Lab 1*: click on the 'fetch' button next to it
+7. You should now see something like the image below. 
 
-# Getting the code from github
+![noteable assignments screenshot](images/lab1_assignments.png)
 
-We are sharing the course code through github, which is a service for sharing code. The first thing you need to do for lab classes every week is to upload the latest notebooks from this github site. To do that, you need to open a new notebook that includes some code you'll use to update the files. Follow these steps:
-
-- Click on the "new" menu.
-- Select "Python 3". This will open a brand new notebook.
-![creating new python3 notebook](images/lab1_newnotebook_screenshot.png)
-- In the first "cell" of the notebook, you need to enter some code that will handle the transfer from the github site.
-- Copy and paste the following code into the cell:
-```
-!rm -rf simlang2021
-!git clone https://github.com/centre-for-language-evolution/simlang2021
-!mkdir -p simlang2021_local
-!cp -nr simlang2021/* simlang2021_local
-```
-![creating new python3 notebook](images/lab1_import_code_screenshot.png)
-- Run this code by pressing SHIFT + ENTER. This will transfer all the current simlang2021 content into your notebook server. It copies everything into a folder called "simlang2021", and every time you execute this code it will overwrite whatever is in that folder with a clean copy of the course code, which means that any changes you make to code in that folder will be over-written each time you fetch the latest code. It also makes a "local" copy of the code in a folder called "simlang2021_local". **This is the one you should do your work in**, safe in the knowledge any changed you make won't get overwritten.
-- Rename your notebook (by clicking on the "file" menu and then "rename") - call it something like "UpdateCourse".
-- Save the notebook by clicking "file" and then "save and checkpoint".
-
-Now you're done with this bit of code, so you can close that browser tab. Next time you want to add new notebooks for the course, just open the notebook "UpdateCourse.ipynb" (or whatever you called it) in the file list in the noteable Home window and run that first cell again by pressing SHIFT + ENTER.
-
-You can now click on the "simlang2021_local" folder in the file list in the noteable Home window and open any of the notebook files that are there. If you mess anything up, you can delete the notebook you're working on, run the update course notebook again and you'll have a fresh file to work from. (But be careful, you won't be able to undo this!)
-![highlighting simlang2021_local folder](images/lab1_home_screenshot.png)
 
 # Programming tasks for today's lab
 

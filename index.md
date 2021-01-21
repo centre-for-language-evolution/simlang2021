@@ -69,7 +69,7 @@ Lead: Kenny Smith
 ### Week 3 (commencing 25th January): Concept learning
 Lead: Kenny Smith
 - Pre-lecture reading: [More on Bayes' Rule](simlang_reading_wk3.md)
-- Lecture slides
+- [Lecture slides](lecture_slides/simlang2021_lecture2.pdf)
 - Programming practical: Word learning
 
 ### Week 4 (commencing 1st February): Frequency learning and regularisation

@@ -70,7 +70,7 @@ Lead: Kenny Smith
 Lead: Kenny Smith
 - Pre-lecture reading: [More on Bayes' Rule](simlang_reading_wk3.md)
 - [Lecture slides](lecture_slides/simlang2021_lecture2.pdf)
-- Programming practical: Word learning
+- Programming practical: [Word learning](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab2.ipynb)
 
 ### Week 4 (commencing 1st February): Frequency learning and regularisation
 Lead: Kenny Smith

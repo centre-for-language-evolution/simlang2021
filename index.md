@@ -71,12 +71,13 @@ Lead: Kenny Smith
 - Pre-lecture reading: [More on Bayes' Rule](simlang_reading_wk3.md)
 - [Lecture slides](lecture_slides/simlang2021_lecture2.pdf)
 - Programming practical: [Word learning](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab2.ipynb)
+- Answers to Practical: [Word learning answers](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab2_answered.ipynb)
 
 ### Week 4 (commencing 1st February): Frequency learning and regularisation
 Lead: Kenny Smith
 - No new reading - catch up on the week 3 readings on Bayes, or read [Xu & Tenenbaum (2007)](https://psycnet-apa-org.ezproxy.is.ed.ac.uk/fulltext/2007-05396-002.html), covered in the week 3 lecture, for yourself.
-- Lecture slides
-- Programming practical: Frequency learning and regularisation
+- Lecture slides *COMING SOON*
+- Programming practical: [Frequency learning and regularisation](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab3.ipynb)
 
 ### Week 5 (commencing 8th February): Iterated Learning
 Lead: Simon Kirby

@@ -81,7 +81,7 @@ Lead: Kenny Smith
 
 ### Week 5 (commencing 8th February): Iterated Learning
 Lead: Simon Kirby
-- Reading: Bayesian iterated learning
+- Post-lecture reading: [Bayesian iterated learning](simlang_reading_wk5.md)
 - [Lecture slides](lecture_slides/simlang2021_lecture4.pdf)
   - [Video of uniform prior](lecture_slides/lecture4_videos/posterior_uniform.mp4)
   - [Video of regularity prior](lecture_slides/lecture4_videos/posterior_regularity.mp4)
@@ -89,7 +89,7 @@ Lead: Simon Kirby
 
 ### Free week (commencing 15th February): No classes
 
-Catch up, read ahead, or have a rest.
+Catch up, read ahead, start the first assessment, or have a rest.
 
 ### Week 6 (commencing 22nd February): Communication and the RSA model
 Lead: Kenny Smith

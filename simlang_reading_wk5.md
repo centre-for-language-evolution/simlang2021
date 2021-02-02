@@ -8,7 +8,7 @@ description: Iterated Learning
 
 In the lecture, we're going to look at some issues with using learning biases to explain language structure (like regularity). The solution to these problems will be to move beyond the individual learner and think of how languages evolve as they are passed from learner to learner over time. This kind of *cultural* evolution is called **iterated learning**.
 
-I will briefly cover two experiments that use iterated learning to explain regularity in language. I'd like you to look at the papers behind these experiments **after** the lecture. So, this is something you might like to do next week during reading week!
+I will briefly cover two experiments that use iterated learning to explain regularity in language. I'd like you to look at the papers behind these experiments **after** the lecture. You should have a look at the first of these before you do the lab, though.
 
 [Reali & Griffiths (2009)](http://cocosci.princeton.edu/tom/papers/regularization.pdf) covers a model of frequency learning – this is the same model we have been working with in Labs 3 and 4, so don’t be intimidated by the slightly mathsy framing in sections 2 and 3 of their paper, you know how this model works – and 3 experiments. In Experiment 1 they verify they get something that looks roughly like probability matching in their word-learning task (as e.g. Hudson Kam & Newport, 2005, do in a much more complex language task), in Experiment 2 they run an iterated learning experiment, and then in Experiment 3 they do the same thing with a non-linguistic task where people seem to have radically different priors.
 

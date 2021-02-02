@@ -85,6 +85,7 @@ Lead: Simon Kirby
 - [Lecture slides](lecture_slides/simlang2021_lecture4.pdf)
   - [Video of uniform prior](lecture_slides/lecture4_videos/posterior_uniform.mp4)
   - [Video of regularity prior](lecture_slides/lecture4_videos/posterior_regularity.mp4)
+  - [Code for generating these videos](lecture_slides/lecture4_videos/lecture4_figures.ipynb)
 - Programming practical: Bayesian iterated learning
 
 ### Free week (commencing 15th February): No classes

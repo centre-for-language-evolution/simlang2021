@@ -82,7 +82,9 @@ Lead: Kenny Smith
 ### Week 5 (commencing 8th February): Iterated Learning
 Lead: Simon Kirby
 - Reading: Bayesian iterated learning
-- Lecture slides
+- [Lecture slides](lecture_slides/simlang2021_lecture4.pdf)
+  - [Video of uniform prior](lecture_slides/lecture4_videos/posterior_uniform.mp4)
+  - [Video of regularity prior](lecture_slides/lecture4_videos/posterior_regularity.mp4)
 - Programming practical: Bayesian iterated learning
 
 ### Free week (commencing 15th February): No classes

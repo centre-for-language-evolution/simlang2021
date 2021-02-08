@@ -78,6 +78,7 @@ Lead: Kenny Smith
 - No new reading - catch up on the week 3 readings on Bayes, or read [Xu & Tenenbaum (2007)](https://psycnet-apa-org.ezproxy.is.ed.ac.uk/fulltext/2007-05396-002.html), covered in the week 3 lecture, for yourself.
 - [Lecture slides](lecture_slides/simlang2021_lecture3.pdf)
 - Programming practical: [Frequency learning and regularisation](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab3.ipynb)
+- Answers to Practical: [Frequency learning and regularisation answers](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab3_answered.ipynb)
 
 ### Week 5 (commencing 8th February): Iterated Learning
 Lead: Simon Kirby
@@ -86,7 +87,7 @@ Lead: Simon Kirby
   - [Video of uniform prior](lecture_slides/lecture4_videos/posterior_uniform.mp4)
   - [Video of regularity prior](lecture_slides/lecture4_videos/posterior_regularity.mp4)
   - [Code for generating these videos](lecture_slides/lecture4_videos/lecture4_figures.ipynb)
-- Programming practical: Bayesian iterated learning
+- Programming practical: [Bayesian iterated learning](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab4.ipynb)
 
 ### Free week (commencing 15th February): No classes
 

@@ -88,6 +88,7 @@ Lead: Simon Kirby
   - [Video of regularity prior](lecture_slides/lecture4_videos/posterior_regularity.mp4)
   - [Code for generating these videos](lecture_slides/lecture4_videos/lecture4_figures.ipynb)
 - Programming practical: [Bayesian iterated learning](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab4.ipynb)
+- Logarithms for the concerned, a supplementary walkthrough [online slides](https://centre-for-language-evolution.github.io/simlang2021/LogExplainer.slides.html#/) [notebook](https://github.com/centre-for-language-evolution/simlang2021/blob/master/LogExplainer.ipynb) 
 
 ### Free week (commencing 15th February): No classes
 

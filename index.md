@@ -111,7 +111,7 @@ Lead: Simon Kirby
 
 ### Week 8 (commencing 8th March): Hierarchical models and learning the prior
 Lead: Kenny Smith
-- Reading: Hierarchical models, learning to learn, and the shape bias
+- Reading: [Hierarchical models and learning to learn](simlang_reading_wk8.md)
 - Lecture slides
 - Programming practical: Hierarchical learning
 

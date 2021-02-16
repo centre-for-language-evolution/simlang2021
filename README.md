@@ -13,4 +13,4 @@ The following files are copyright (c) 2020-2021 [**Kenny Smith**](http://www.lel
 
 The following files are copyright (c) 2021 [**Matt Spike**](https://sites.google.com/site/matspike/): LogExplainer.ipynb
 
-All aspects of this work aside from the Software itself is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). For Software license, see [LICENSE file](LICENSE) for items copyright Simon Kirby, and [LICENSE file](LICENSEKS) for items copyright Kenny Smith.
+All aspects of this work aside from the Software itself is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). For Software license, see [LICENSE file](LICENSE) for items copyright Simon Kirby, [LICENSE file](LICENSEKS) for items copyright Kenny Smith, and [LICENSE file](LICENSEMS) for items copyright Matt Spike.

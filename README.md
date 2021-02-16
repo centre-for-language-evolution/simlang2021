@@ -11,4 +11,6 @@ The following files are copyright (c) 2009-2021 [**Simon Kirby**](http://www.lel
 
 The following files are copyright (c) 2020-2021 [**Kenny Smith**](http://www.lel.ed.ac.uk/~kenny), with contributions from [Simon Kirby](http://www.lel.ed.ac.uk/~simon): lab2.ipynb, lab2_answered.ipynb, lab3.ipynb, lab3_answered.ipynb, lab4.ipynb, lab4_answered.ipynb, lab5.ipynb, lab5_answered.ipynb, lab8.ipynb.
 
+The following files are copyright (c) 2021 [**Matt Spike**](https://sites.google.com/site/matspike/): LogExplainer.ipynb
+
 All aspects of this work aside from the Software itself is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). For Software license, see [LICENSE file](LICENSE) for items copyright Simon Kirby, and [LICENSE file](LICENSEKS) for items copyright Kenny Smith.

@@ -14,9 +14,9 @@ If you want an overview of other applications of RSA models and extensions beyon
 
 # References
 
-Frank, M. C., & Goodman, N. D. (2014). Inferring word meanings by assuming that speakers are informative. Cognitive Psychology, 75, 80-96.
+Frank, M. C., & Goodman, N. D. (2014). Inferring word meanings by assuming that speakers are informative. *Cognitive Psychology, 75*, 80-96.
 
-Goodman, N. D., Frank, M. C. (2016). Pragmatic language interpretation as probabilistic inference. Trends in Cognitive Sciences, 20, 818-829.
+Goodman, N. D., Frank, M. C. (2016). Pragmatic language interpretation as probabilistic inference. *Trends in Cognitive Sciences, 20*, 818-829.
 
 
 # Re-use

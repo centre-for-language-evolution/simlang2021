@@ -105,8 +105,8 @@ Lead: Kenny Smith
 
 ### Week 7 (commencing 1st March): Compositionality
 Lead: Simon Kirby
-- Reading: The evolution of compositionality
-- Lecture slides
+- Reading: [The evolution of compositionality](simlang_reading_wk7.md)
+- [Lecture slides](lectures_slides/simlang2021_lecture6.pdf)
 - Programming practical: Compositionality
 
 ### Week 8 (commencing 8th March): Hierarchical models and learning the prior

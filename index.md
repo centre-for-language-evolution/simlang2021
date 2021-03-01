@@ -102,6 +102,7 @@ Lead: Kenny Smith
 - Reading: [The Rational Speech Act model](simlang_reading_wk6.md)
 - [Lecture slides](lecture_slides/simlang2021_lecture5.pdf)
 - Programming practical: [The Rational Speech Act model](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab5.ipynb)
+- Answers to Practical: [The Rational Speech Act model](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab5_answered.ipynb)
 
 ### Week 7 (commencing 1st March): Compositionality
 Lead: Simon Kirby

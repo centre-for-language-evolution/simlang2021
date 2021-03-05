@@ -113,7 +113,7 @@ Lead: Simon Kirby
 ### Week 8 (commencing 8th March): Hierarchical models and learning the prior
 Lead: Kenny Smith
 - Reading: [Hierarchical models and learning to learn](simlang_reading_wk8.md)
-- Lecture slides
+- [Lecture slides](lecture_slides/simlang2021_lecture7.pdf)
 - Programming practical: Hierarchical learning
 
 ### Week 9 (commencing 15th March): Biological evolution

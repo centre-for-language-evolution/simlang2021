@@ -116,13 +116,13 @@ Lead: Kenny Smith
 - [Lecture slides](lecture_slides/simlang2021_lecture7.pdf)
 - Programming practical: Hierarchical learning
 
-### Week 9 (commencing 15th March): Biological evolution
+### Week 9 (commencing 15th March): Innateness and culture
 Lead: Simon Kirby
-- Reading: Introduction to genetic algorithms
+- Reading: Innateness and culture in the evolution of language
 - Lecture slides
-- Programming practical: Genetic algorithms
+- Programming practical: Convergence to the prior
 
-### Week 10 (commencing 22nd March): Gene-culture co-evolution
+### Week 10 (commencing 22nd March): Adding biological evolution to our models
 Lead: Simon Kirby
 - Reading: Gene-culture co-evolution
 - Lecture slides

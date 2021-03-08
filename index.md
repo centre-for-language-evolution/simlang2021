@@ -115,7 +115,7 @@ Lead: Simon Kirby
 Lead: Kenny Smith
 - Reading: [Hierarchical models and learning to learn](simlang_reading_wk8.md)
 - [Lecture slides](lecture_slides/simlang2021_lecture7.pdf)
-- Programming practical: Hierarchical learning
+- Programming practical: [Hierarchical learning](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab7.ipynb)
 
 ### Week 9 (commencing 15th March): Innateness and culture
 Lead: Simon Kirby

@@ -109,6 +109,7 @@ Lead: Simon Kirby
 - Reading: [The evolution of compositionality](simlang_reading_wk7.md)
 - [Lecture slides](lecture_slides/simlang2021_lecture6.pdf)
 - Programming practical: [Compositionality](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab6.ipynb)
+- Answers to Practical: [Compositionality](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab6_answered.ipynb)
 
 ### Week 8 (commencing 8th March): Hierarchical models and learning the prior
 Lead: Kenny Smith

@@ -119,8 +119,8 @@ Lead: Kenny Smith
 
 ### Week 9 (commencing 15th March): Innateness and culture
 Lead: Simon Kirby
-- Reading: Innateness and culture in the evolution of language
-- Lecture slides
+- Reading: [Innateness and culture in the evolution of language](simlang_reading_wk9.md)
+- [Lecture slides](lecture_slides/simlang2021_lecture8.pdf)
 - Programming practical: Convergence to the prior
 
 ### Week 10 (commencing 22nd March): Adding biological evolution to our models

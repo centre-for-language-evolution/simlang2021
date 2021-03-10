@@ -79,6 +79,7 @@ Lead: Kenny Smith
 - [Lecture slides](lecture_slides/simlang2021_lecture3.pdf)
 - Programming practical: [Frequency learning and regularisation](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab3.ipynb)
 - Answers to Practical: [Frequency learning and regularisation answers](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab3_answered.ipynb)
+- [Walkthrough video](https://media.ed.ac.uk/media/lab_3_walkthrough/1_1pyq2qg1)
 
 ### Week 5 (commencing 8th February): Iterated Learning
 Lead: Simon Kirby
@@ -89,6 +90,7 @@ Lead: Simon Kirby
   - [Code for generating these videos](lecture_slides/lecture4_videos/lecture4_figures.ipynb)
 - Programming practical: [Bayesian iterated learning](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab4.ipynb)
 - Answers to practical [Bayesian iterated learning](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab4_answered.ipynb)
+- [Walkthrough video](https://media.ed.ac.uk/media/lab_4_walkthrough/1_kv20uefj)
 - *Logarithms for the concerned*: a supplementary walkthrough in three parts
   - [online slides](https://centre-for-language-evolution.github.io/simlang2021/LogExplainer.slides.html#/)
   - [notebook](https://github.com/centre-for-language-evolution/simlang2021/blob/master/LogExplainer.ipynb)
@@ -110,6 +112,7 @@ Lead: Simon Kirby
 - [Lecture slides](lecture_slides/simlang2021_lecture6.pdf)
 - Programming practical: [Compositionality](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab6.ipynb)
 - Answers to Practical: [Compositionality](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab6_answered.ipynb)
+- [Walkthrough video](https://media.ed.ac.uk/media/lab_6_walkthrough/1_cv3bptoq)
 
 ### Week 8 (commencing 8th March): Hierarchical models and learning the prior
 Lead: Kenny Smith

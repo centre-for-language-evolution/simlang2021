@@ -9,7 +9,7 @@ The master branch is used purely for sharing code (python notebooks) which can b
 
 The following files are copyright (c) 2009-2021 [**Simon Kirby**](http://www.lel.ed.ac.uk/~simon), with contributions from [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/), [Jennifer Culbertson](https://jennifer-culbertson.github.io), [Andrew Smith](https://www.stir.ac.uk/people/256435): lab1.ipynb, lab1_answered.ipynb, lab1_walkthrough.ipynb, lab1_notebook_intro.ipynb, lab6.ipynb, lab6_answered.ipynb
 
-The following files are copyright (c) 2020-2021 [**Kenny Smith**](http://www.lel.ed.ac.uk/~kenny), with contributions from [Simon Kirby](http://www.lel.ed.ac.uk/~simon): lab2.ipynb, lab2_answered.ipynb, lab3.ipynb, lab3_answered.ipynb, lab4.ipynb, lab4_answered.ipynb, lab5.ipynb, lab5_answered.ipynb, lab7.ipynb, lab7_answered.ipynb, lab8.ipynb.
+The following files are copyright (c) 2020-2021 [**Kenny Smith**](http://www.lel.ed.ac.uk/~kenny), with contributions from [Simon Kirby](http://www.lel.ed.ac.uk/~simon): lab2.ipynb, lab2_answered.ipynb, lab3.ipynb, lab3_answered.ipynb, lab4.ipynb, lab4_answered.ipynb, lab5.ipynb, lab5_answered.ipynb, lab7.ipynb, lab7_answered.ipynb.
 
 The following files are copyright (c) 2021 [**Matt Spike**](https://sites.google.com/site/matspike/): LogExplainer.ipynb
 

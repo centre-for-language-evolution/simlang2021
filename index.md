@@ -119,12 +119,13 @@ Lead: Kenny Smith
 - Reading: [Hierarchical models and learning to learn](simlang_reading_wk8.md)
 - [Lecture slides](lecture_slides/simlang2021_lecture7.pdf)
 - Programming practical: [Hierarchical learning](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab7.ipynb)
+- Answers to Practical: [Hierarchical learning](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab7_answered.ipynb)
 
 ### Week 9 (commencing 15th March): Innateness and culture
 Lead: Simon Kirby
 - Reading: [Innateness and culture in the evolution of language](simlang_reading_wk9.md)
 - [Lecture slides](lecture_slides/simlang2021_lecture8.pdf)
-- Programming practical: Convergence to the prior
+- Programming practical: [Convergence to the prior](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab8.ipynb)
 
 ### Week 10 (commencing 22nd March): Adding biological evolution to our models
 Lead: Simon Kirby

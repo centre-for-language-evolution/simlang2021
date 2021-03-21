@@ -129,7 +129,7 @@ Lead: Simon Kirby
 
 ### Week 10 (commencing 22nd March): Adding biological evolution to our models
 Lead: Simon Kirby
-- Reading: [Gene-culture co-evolution](simlang_reading_wk9.md)
+- Reading: [Gene-culture co-evolution](simlang_reading_wk10.md)
 - [Lecture slides](lecture_slides/simlang2021_lecture9.pdf)
 - Programming practical: Co-evolutionary modelling
 

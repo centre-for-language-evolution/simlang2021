@@ -126,12 +126,13 @@ Lead: Simon Kirby
 - Reading: [Innateness and culture in the evolution of language](simlang_reading_wk9.md)
 - [Lecture slides](lecture_slides/simlang2021_lecture8.pdf)
 - Programming practical: [Convergence to the prior](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab8.ipynb)
+- Answers to Practical: [Convergence to the prior](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab8_answered.ipynb)
 
 ### Week 10 (commencing 22nd March): Adding biological evolution to our models
 Lead: Simon Kirby
 - Reading: [Gene-culture co-evolution](simlang_reading_wk10.md)
 - [Lecture slides](lecture_slides/simlang2021_lecture9.pdf)
-- Programming practical: Co-evolutionary modelling
+- Programming practical: [Co-evolutionary modelling](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab9.ipynb)
 
 ### Week 11 (commencing 29th March): This view of language
 Lead: Simon Kirby

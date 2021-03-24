@@ -49,10 +49,12 @@ In addition to asking questions in lectures and drop-in labs, we will set up cha
 
 ## Assessment
 
-Details to be confirmed, but there will be two assignments, with the following deadlines:
+The two assignments involve a mix of practical work and written sections and have the following deadlines:
 
-- 4th March at noon
-- 8th April at noon
+- 4th March at noon (released 17th February)
+- 8th April at noon (released 26th March)
+
+The assignments will be available to start working on after the last lab that relates to the content being assessed. This will usually be two weeks in advance of the deadline.
 
 ## Course Materials
 
@@ -138,7 +140,7 @@ Lead: Simon Kirby
 Lead: Simon Kirby
 - Reading: Overview of this view of language
 - Lecture slides
-- Programming practical: None for this week, but labs open for catch up!
+- Programming practical: None for this week, but **Thursday** labs open for anyone to drop in for a catch up! (N.B. There will be no Friday labs this week as the university is encouraging staff to take the day off. Students in the Friday groups should attend one of the Thursday labs.)
 
 
 ## Re-use

@@ -138,8 +138,8 @@ Lead: Simon Kirby
 
 ### Week 11 (commencing 29th March): This view of language
 Lead: Simon Kirby
-- Reading: Overview of this view of language
-- Lecture slides
+- Reading: [Overview of this view of language](simlang_reading_wk11.md)
+- [Lecture slides](lecture_slides/simlang2021_lecture10.pdf)
 - Programming practical: None for this week, but **Thursday** labs open for anyone to drop in for a catch up! (N.B. There will be no Friday labs this week as the university is encouraging staff to take the day off. Students in the Friday groups should attend one of the Thursday labs.)
 
 
